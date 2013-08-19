@@ -1,7 +1,11 @@
 [
  {
-   "repository": "CyanDreamProject/android_kernel_samsung_tuna",
+   "repository": "CyanogenMod/android_kernel_samsung_tuna",
    "target_path": "kernel/samsung/tuna"
+ },
+ {
+   "repository": "CyanDreamProject/android_vendor_samsung_maguro",
+   "target_path": "vendor/samsung/maguro"
  },
  {
    "repository": "CyanDreamProject/android_device_samsung_tuna",
