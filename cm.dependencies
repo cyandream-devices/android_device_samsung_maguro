@@ -1,7 +1,8 @@
 [
  {
-   "repository": "CyanogenMod/android_kernel_samsung_tuna",
-   "target_path": "kernel/samsung/tuna"
+   "repository": "CyanDreamProject/android_kernel_samsung_tuna",
+   "target_path": "kernel/samsung/tuna",
+   "branch": "cm-10.2",
  },
  {
    "repository": "CyanDreamProject/android_vendor_samsung_maguro",
