@@ -6,12 +6,12 @@
  },
  {
    "repository": "CyanDreamProject/android_vendor_samsung_maguro",
-   "target_path": "vendor/samsung/maguro"
+   "target_path": "vendor/samsung/maguro",
    "branch": "cm-10.2"
  },
  {
    "repository": "CyanDreamProject/android_device_samsung_tuna",
-   "target_path": "device/samsung/tuna"
+   "target_path": "device/samsung/tuna",
    "branch": "cm-10.2"
  }
 ]
