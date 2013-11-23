@@ -7,12 +7,12 @@
  {
    "repository": "TheMuppets/proprietary_vendor_samsung",
    "target_path": "vendor/samsung",
-   "branch": "cm-10.2"
+   "branch": "cm-11.0"
  },
  {
    "repository": "CyanDreamProject/android_device_samsung_tuna",
    "target_path": "device/samsung/tuna",
-   "branch": "cd-4.3"
+   "branch": "cd-4.4"
  }
 ]
 
