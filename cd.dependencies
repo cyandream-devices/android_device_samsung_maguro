@@ -1,8 +1,8 @@
 [
  {
-   "repository": "franciscofranco/Tuna_JB_pre1",
+   "repository": "CyanDreamProject/android_kernel_samsung_tuna",
    "target_path": "kernel/samsung/tuna",
-   "branch": "nightlies-4.3"
+   "branch": "cm-10.2"
  },
  {
    "repository": "TheMuppets/proprietary_vendor_samsung",
