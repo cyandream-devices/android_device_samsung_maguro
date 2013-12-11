@@ -10,7 +10,7 @@
    "branch": "cm-11.0"
  },
  {
-   "repository": "CyanDreamProject/android_device_samsung_tuna",
+   "repository": "cyandream-devices/android_device_samsung_tuna",
    "target_path": "device/samsung/tuna",
    "branch": "cd-4.4"
  }
